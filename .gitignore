@@ -1,0 +1,9 @@
+.idea
+nbproject
+.buildpath
+.project
+.settings
+Thumbs.db
+/vendor
+.DS_Store
+/composer.lock

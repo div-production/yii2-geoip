@@ -1,0 +1,18 @@
+{
+    "name": "div/yii2-geoip",
+    "description": "Yii2 extension for detection user city (use ipgeobase.ru)",
+    "authors": [
+        {
+            "name": "Vladimir",
+            "email": "backend@div26.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "div\\geoip\\": ""
+        }
+    }
+}
