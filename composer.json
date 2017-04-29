@@ -1,9 +1,11 @@
 {
     "name": "div/yii2-geoip",
-    "description": "Yii2 extension for detection user city (use ipgeobase.ru)",
+    "description": "Yii2 расширение для определения города пользователя (используется сервис ipgeobase.ru)",
+    "version": "1.0.0",
+    "licence": "MIT",
     "authors": [
         {
-            "name": "Vladimir",
+            "name": "Vladimir Deryabin",
             "email": "backend@div26.ru"
         }
     ],
